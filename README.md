@@ -6,6 +6,7 @@ Dataismo, dataficação e colonialismo digital
 
 ### Links
 
+- [O holerite e o Holocausto](https://archive.nytimes.com/www.nytimes.com/books/first/b/black-ibm.html).
 - [Free Basics na África](https://www.theguardian.com/world/2016/aug/01/facebook-free-basics-internet-africa-mark-zuckerberg).
 - [Amazon vs Parlamento britânico](https://youtu.be/Frgi_bf3UfU?si=p42hTCkaCqxuq4oy).
 - [Amazon Labor Union](https://jacobin.com.br/2022/04/comeca-um-novo-capitulo-para-os-trabalhadores-do-amazon/).
@@ -15,6 +16,7 @@ Dataismo, dataficação e colonialismo digital
 - [Amazon Mechanical Turk](https://www1.folha.uol.com.br/tec/2023/07/plataformas-de-freelance-online-sao-reprovadas-em-avaliacao-sobre-trabalho-justo.shtml).
 - [OpenAI no Quênia](https://slate.com/technology/2023/05/openai-chatgpt-training-kenya-traumatic.html).
 - [Sônia Coelho](https://restofworld.org/2023/life-of-a-gig-worker-brazil-clickwork/).
+- [O iPhone e a taxa de exploração](https://thetricontinental.org/pt-pt/o-iphone-e-a-taxa-de-exploracao/).
 
 ### Referências
 
