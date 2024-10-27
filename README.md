@@ -2,7 +2,7 @@
 
 ### Título
 
-Dataismo, dataficação e colonialismo digital
+[Dataismo, dataficação e colonialismo digital](https://youtu.be/t-tAeFePOMI?feature=shared)
 
 ### Links
 
